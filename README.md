@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=EE1500&background=191CFF00&width=1750&lines=Where+nature+falls+,+humanity+rises+–+crafting+not+just+life+,+but+the+formidable+force+of+artificial+intelligence.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=EE1500&background=191CFF00&width=1750&lines="If+you+want+to+overcome+the+whole+world,+overcome+yourself"+By+Fyodor+Dostoyevsky)](https://git.io/typing-svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chadlikouider&show_icons=true&hide_border=true&hide=contribs,prs&count_private=true&theme=dracula)
 
